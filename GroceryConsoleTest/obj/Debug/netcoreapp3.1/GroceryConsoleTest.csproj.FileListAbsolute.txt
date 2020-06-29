@@ -1,0 +1,16 @@
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\bin\Debug\netcoreapp3.1\GroceryConsoleTest.exe
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\bin\Debug\netcoreapp3.1\GroceryConsoleTest.deps.json
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\bin\Debug\netcoreapp3.1\GroceryConsoleTest.runtimeconfig.json
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\bin\Debug\netcoreapp3.1\GroceryConsoleTest.runtimeconfig.dev.json
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\bin\Debug\netcoreapp3.1\GroceryConsoleTest.dll
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\bin\Debug\netcoreapp3.1\GroceryConsoleTest.pdb
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\bin\Debug\netcoreapp3.1\GroceryManagement.dll
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\bin\Debug\netcoreapp3.1\GroceryManagement.pdb
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\obj\Debug\netcoreapp3.1\GroceryConsoleTest.csprojAssemblyReference.cache
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\obj\Debug\netcoreapp3.1\GroceryConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\obj\Debug\netcoreapp3.1\GroceryConsoleTest.AssemblyInfoInputs.cache
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\obj\Debug\netcoreapp3.1\GroceryConsoleTest.AssemblyInfo.cs
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\obj\Debug\netcoreapp3.1\GroceryConsoleTest.csproj.CopyComplete
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\obj\Debug\netcoreapp3.1\GroceryConsoleTest.dll
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\obj\Debug\netcoreapp3.1\GroceryConsoleTest.pdb
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryConsoleTest\obj\Debug\netcoreapp3.1\GroceryConsoleTest.genruntimeconfig.cache

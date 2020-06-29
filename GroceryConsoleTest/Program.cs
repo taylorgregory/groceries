@@ -1,4 +1,5 @@
 ﻿using System;
+using GroceryManagement;
 
 namespace GroceryConsoleTest
 {
@@ -6,7 +7,10 @@ namespace GroceryConsoleTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            FoodCollection foodCol = new FoodCollection();
+
+            foodCol.FruitVegItems.Add("help", new Food("help"));
+
         }
     }
 }

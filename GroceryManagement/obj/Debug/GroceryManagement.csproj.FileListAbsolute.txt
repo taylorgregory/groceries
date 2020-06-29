@@ -1,0 +1,6 @@
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryManagement\bin\Debug\GroceryManagement.dll
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryManagement\bin\Debug\GroceryManagement.pdb
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryManagement\obj\Debug\GroceryManagement.csprojAssemblyReference.cache
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryManagement\obj\Debug\GroceryManagement.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryManagement\obj\Debug\GroceryManagement.dll
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryManagement\obj\Debug\GroceryManagement.pdb

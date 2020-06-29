@@ -1,0 +1,13 @@
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\bin\Debug\GroceryGUI.exe.config
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\bin\Debug\GroceryGUI.exe
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\bin\Debug\GroceryGUI.pdb
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\bin\Debug\GroceryManagement.dll
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\bin\Debug\GroceryManagement.pdb
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\obj\Debug\GroceryGUI.csprojAssemblyReference.cache
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\obj\Debug\GroceryGUI.Form1.resources
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\obj\Debug\GroceryGUI.Properties.Resources.resources
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\obj\Debug\GroceryGUI.csproj.GenerateResource.cache
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\obj\Debug\GroceryGUI.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\obj\Debug\GroceryGUI.csproj.CopyComplete
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\obj\Debug\GroceryGUI.exe
+C:\Users\taylo\Documents\Directories\Git\groceries\GroceryGUI\obj\Debug\GroceryGUI.pdb

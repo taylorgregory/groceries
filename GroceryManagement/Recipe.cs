@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace GroceryManagement
 {
-    public class Class1
+    class Recipe
     {
+        // Food [] ingredients
+
+
     }
 }

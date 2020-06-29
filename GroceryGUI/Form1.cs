@@ -16,5 +16,40 @@ namespace GroceryGUI
         {
             InitializeComponent();
         }
+
+        private void myCupboardToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void myCupboardToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void myRecipesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void myCupboardToolStripMenuItem_Click_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\GroceryConsoleTest",
-    "\\GroceryGUI",
     "\\GroceryManagement"
   ],
-  "SelectedNode": "\\GroceryConsoleTest",
+  "SelectedNode": "\\GroceryConsoleTest\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -26,7 +26,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\taylo\\.nuget\\packages\\": {}
+    "C:\\Users\\taylo\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -37,6 +38,9 @@
       "packagesPath": "C:\\Users\\taylo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\taylo\\Documents\\Directories\\Git\\groceries\\GroceryConsoleTest\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\taylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using GroceryManagement;
 
 namespace GroceryConsoleTest
@@ -82,10 +84,34 @@ namespace GroceryConsoleTest
             } while (mainMenuSelection != "0");
         }
 
+        static void CreateDummyFood()
+        {
+            // note: to be replaced/removed once i either read from csv OR use databases
 
+            // -- adding umbrella term (this will be used in recipes)
+
+            foodCol.PantryItems.Add("Peanut Butter", new Dictionary<string, Food>());
+
+            Food peanutButter1 = new Food("Bega Crunchy Peanut Butter", 2580, 23.7, 51.3, 10.3, new Dictionary<string, ArrayList>());
+
+            peanutButter1.Properties.Add("1970-01-01 00:00:01", new ArrayList {"help", 4, "please"});
+            peanutButter1.Properties.Add("1970-01-01 00:00:02", new ArrayList { "helpp", 5, "pplease" });
+
+            Food peanutButter2 = new Food("Bega Simply Nuts Crunchy Peanut Butter", 2550, 27.5, 49.0, 6.0, new Dictionary<string, ArrayList>());
+            peanutButter2.Properties.Add("1970-01-01 00:00:03", new ArrayList { "helpo", 6, "oplease" });
+
+            foodCol.PantryItems["Peanut Butter"].Add(peanutButter1.Name, peanutButter1);
+            foodCol.PantryItems["Peanut Butter"].Add(peanutButter2.Name, peanutButter2);
+
+            // -- adding specific item descriptions (kj etc)
+
+            // adding cupboard contents (quantity, use by etc)
+        }
 
         static void Main(string[] args)
         {
+            CreateDummyFood();
+
             FunctionalMainMenu(); // program entry point
         }
     }

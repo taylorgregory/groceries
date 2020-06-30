@@ -13,18 +13,18 @@ namespace GroceryManagement
     {
         // initialising and getters + setters
         public string Name { get; set; }
-        public int KilojoulesPHG { get; set; }
-        public int ProteinPHG { get; set; }
-        public int FatPHG { get; set; }
-        public int SatFatPHG { get; set; }
+        public double KilojoulesPHG { get; set; }
+        public double ProteinPHG { get; set; }
+        public double FatPHG { get; set; }
+        public double SatFatPHG { get; set; }
         public string ColesID { get; set; }
-        public int ColesPrice { get; set; }
+        public double ColesPrice { get; set; }
         public string WoolworthsID { get; set; }
-        public int WoolworthsPrice { get; set; }
-        public Dictionary<string, Array> Properties { get; set; } // quantity, purchaseDate, openDate, useBy, coles/woolworths?
+        public double WoolworthsPrice { get; set; }
+        public Dictionary<string, ArrayList> Properties { get; set; } // quantity, purchaseDate, openDate, useBy, coles/woolworths?
 
         // constructors
-        public Food(string name, int kilojoulesPHG, int proteinPHG, int fatPHG, int satFatPHG, Dictionary<string, Array> properties)
+        public Food(string name, double kilojoulesPHG, double proteinPHG, double fatPHG, double satFatPHG, Dictionary<string, ArrayList> properties)
         {
             // this constructor is used by the user when manually inputting a food item for the first time
             this.Name = name;
@@ -35,7 +35,7 @@ namespace GroceryManagement
             this.Properties = properties;
         }
 
-        public Food(string name, Dictionary<string, Array> properties)
+        public Food(string name, Dictionary<string, ArrayList> properties)
         {
             this.Name = name;
             this.Properties = properties;
